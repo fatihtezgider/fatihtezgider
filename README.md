@@ -6,6 +6,7 @@
 - 💬 Ask me about **react,java script,slim framework, laravel**
 
 - 📫 How to reach me **fatihtzgdr@gmail.com**
+<img src="https://github.com/fatihtezgider/fatihtezgider/blob/main/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
