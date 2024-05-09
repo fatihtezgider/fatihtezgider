@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">I'm a full stack developer</h3>
+<img src="https://github.com/fatihtezgider/fatihtezgider/blob/main/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
+
 
 - 🌱 I’m currently learning **next js**
 
-- 💬 Ask me about **react,java script,slim framework, laravel**
+- 💬 Ask me about **react js, php slim framework, php laravel**
 
 - 📫 How to reach me **fatihtzgdr@gmail.com**
-<img src="https://github.com/fatihtezgider/fatihtezgider/blob/main/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
